@@ -1,5 +1,5 @@
 # calculator2
->Firstly initiated with the platform of pycharm.
+->Firstly initiated with the platform of pycharm.
 
 ->Created a file and named it as calculator.py .
 
